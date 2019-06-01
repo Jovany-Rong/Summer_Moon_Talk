@@ -5,8 +5,8 @@
 # Site
 title: 夏月谈
 subtitle: 文档、写作和杂谈
-description: Love what I do!
-keywords:
+description: Technology changes the world!
+keywords: Blog
 author: Chenfei Jovany Rong
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -26,7 +26,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: EasyOM/**
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -41,7 +41,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
   
 # Home page setting
@@ -101,4 +101,4 @@ live2d:
     width: 150 
     height: 300
   mobile:
-    show: false  #是否在手机进行显示
+    show: true  #是否在手机进行显示
