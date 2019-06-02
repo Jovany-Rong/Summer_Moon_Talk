@@ -1,13 +1,14 @@
 ---
 title: Hexo + NexT进阶美化攻略
-date: 2019-05-29 18:24:27
 categories: Hexo
 tags:
-    - Hexo
-    - NexT
-    - 攻略
-    - UI
+  - Hexo
+  - NexT
+  - 攻略
+  - UI
 copyright: true
+abbrlink: 5c3a
+date: 2019-05-29 18:24:27
 ---
 
 ## 前言

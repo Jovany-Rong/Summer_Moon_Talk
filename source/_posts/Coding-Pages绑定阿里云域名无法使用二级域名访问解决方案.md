@@ -1,14 +1,15 @@
 ---
 title: Coding Pages绑定阿里云域名无法使用二级域名访问解决方案
-date: 2019-05-18 23:14:42
 categories: 网络技术
 tags:
-    - Hexo
-    - Coding
-    - 腾讯云开发者平台
-    - 域名
-    - 问题解决
+  - Hexo
+  - Coding
+  - 腾讯云开发者平台
+  - 域名
+  - 问题解决
 copyright: true
+abbrlink: 575e
+date: 2019-05-18 23:14:42
 ---
 
 ## 问题描述

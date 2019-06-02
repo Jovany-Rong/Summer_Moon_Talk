@@ -1,13 +1,14 @@
 ---
 title: 我的Django学习笔记（一）：第一个Django项目
-date: 2019-05-31 23:16:38
 categories: Python
 tags:
- - Python
- - Django
- - BS开发
- - 学习笔记
+  - Python
+  - Django
+  - BS开发
+  - 学习笔记
 copyright: true
+abbrlink: e568
+date: 2019-05-31 23:16:38
 ---
 
 Django是Python的Web应用模块中非常流行的一款。**我的Django学习笔记**系列博文将记录我学习使用Django的历程。

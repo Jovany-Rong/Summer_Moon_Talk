@@ -1,13 +1,14 @@
 ---
 title: EasyOM 1.0.1更新说明
-date: 2019-05-16 21:05:57
 categories: 运维产品
-tags: 
-    - EasyOM
-    - 更新说明
-    - 运维
-    - Python
+tags:
+  - EasyOM
+  - 更新说明
+  - 运维
+  - Python
 copyright: true
+abbrlink: '2057'
+date: 2019-05-16 21:05:57
 ---
 
 *作者： 戎 晨飞（Jovany Rong）*

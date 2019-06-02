@@ -51,7 +51,7 @@ footer:
   icon: user
 
   # If not defined, will be used `author` from Hexo main config.
-  copyright: Summer Moon Talk
+  copyright: Chenfei Rong (Jovany)
   # -------------------------------------------------------------
   # Hexo link (Powered by Hexo).
   powered: true
@@ -102,6 +102,7 @@ menu:
   EasyOM: /EasyOM/ || wrench
   downloads: /downloads/ || download
   about: /about/ || user
+  appreciation: /appreciation/ || bitcoin
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -150,8 +151,8 @@ social_icons:
 # Blog rolls
 links_icon: link
 links_title: 友情链接
-#links_layout: block
-links_layout: inline
+links_layout: block
+#links_layout: inline
 links:
   GitHub: https://github.com/
   南京国图信息产业有限公司: http://www.gtmap.cn/
@@ -698,13 +699,13 @@ pace: true
 #pace-theme-minimal
 # For example
 # pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-minimal
+pace_theme: pace-theme-center-atom
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
-three_waves: false
+three_waves: true
 
 # canvas_lines
 canvas_lines: false
@@ -827,3 +828,7 @@ search:
   field: post
   format: html
   limit: 10000
+
+# Online contact 
+daovoice: true
+daovoice_app_id: b9b1cf9b

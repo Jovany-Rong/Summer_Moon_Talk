@@ -1,13 +1,14 @@
 ---
 title: GitHub Pages + Hexo + 阿里云域名无法访问解决方案
-date: 2019-05-17 16:40:59
 categories: 网络技术
 tags:
-    - Hexo
-    - GitHub
-    - 域名
-    - 问题解决
+  - Hexo
+  - GitHub
+  - 域名
+  - 问题解决
 copyright: true
+abbrlink: 712d
+date: 2019-05-17 16:40:59
 ---
 
 ## 问题描述
